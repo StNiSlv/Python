@@ -1,0 +1,2 @@
+binary_data = b'Hello, my name Stas'        # bytes (не изменяемый)
+mutable_binary = bytearray(b'world')        # bytearray (изменяемый)
