@@ -1,5 +1,0 @@
-# Простые типы данных
-age = 27                                    # int
-height = 1.93                               # float
-is_true = True                              # bool
-text = "Hello, my name Stas"                # str
