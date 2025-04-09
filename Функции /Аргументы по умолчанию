@@ -1,0 +1,6 @@
+def power (number, exp = 2):            # Аргумент exp по умаолчанию равен 2
+    return number ** exp
+result = power(2)                       # Присвоили значение только переменной number
+print(result)
+result = power(2, 5)                    # Так же присвоили аргументу exp значение 5
+print(result)
