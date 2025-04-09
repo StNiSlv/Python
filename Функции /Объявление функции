@@ -1,0 +1,5 @@
+def greetings(name):                    # Создание функции 
+    return f"Привет, {name}!"
+
+message = greetings("Стас")
+print(message)                          # Вывод: Привет, Стас!
