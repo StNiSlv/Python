@@ -1,0 +1,5 @@
+def user_info(**data):
+    for key, value in data.items():
+        print(f"{key}: {value}")
+
+user_info(name="Станислав", age=27, city="Рязань", country = " Россия")
