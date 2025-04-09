@@ -1,0 +1,8 @@
+def sum_all(*numbers):   # Создадим функцию с любым количеством аргументов
+    summ = 0
+    for num in numbers:
+        summ += num
+    return summ
+
+print(sum_all(1, 2, 3))  # 6
+print(sum_all(5, 10))    # 15
