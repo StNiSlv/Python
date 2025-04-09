@@ -1,0 +1,2 @@
+hello = lambda x: print(f"Привет {x}")
+hello("Стас")
