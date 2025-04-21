@@ -31,7 +31,6 @@ a = input('Введите первое слово: ')
 b = input('Введите второе слово: ')
 print(a, b)
 z = a
-c = b
+a = b
 b = z
-a = c
 print(a, b)
